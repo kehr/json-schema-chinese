@@ -1,5 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Json schema core](json-schema-core.md)
+* [Json Schema Core](json-schema-core.md)
+* [JSON Schema Validation](json-schema-validation.md)
 
